@@ -1,0 +1,35 @@
+{
+    "Name": "Spontaneous behaviour is structured by reinforcement without explicit reward",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Spontaneous animal behaviour is built from action modules that are concatenated by the brain into sequences. However, the neural mechanisms that guide the composition of naturalistic, self-motivated behaviour remain unknown. Here we show that dopamine systematically fluctuates in the dorsolateral striatum (DLS) as mice spontaneously express sub-second behavioural modules, despite the absence of task structure, sensory cues or exogenous reward. Photometric recordings and calibrated closed-loop optogenetic manipulations during open field behaviour demonstrate that DLS dopamine fluctuations increase sequence variation over seconds, reinforce the use of associated behavioural modules over minutes, and modulate the vigour with which modules are expressed, without directly influencing movement initiation or moment-to-moment kinematics. Although the reinforcing effects of optogenetic DLS dopamine manipulations vary across behavioural modules and individual mice, these differences are well predicted by observed variation in the relationships between endogenous dopamine and module use. Consistent with the possibility that DLS dopamine fluctuations act as a teaching signal, mice build sequences during exploration as if to maximize dopamine. Together, these findings suggest a model in which the same circuits and computations that govern action choices in structured tasks have a key role in sculpting the content of unconstrained, high-dimensional, spontaneous behavior.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Markowitz, Jeffrey E.",
+        "Gillis, Winthrop",
+        "Jay, Maya",
+        "Wood, Jeffrey",
+        "Harris, Ryley W.",
+        "Cieszkowski, Robert",
+        "Scott, Rebecca",
+        "Brann, David",
+        "Koveal, Dorothy",
+        "Kula, Tomasz",
+        "Weinreb, Caleb",
+        "Osman, Mohammed Abdal Monium ",
+        "Pinto, Sandra Romero ",
+        "Uchida, Naoshige ",
+        "Linderman, Scott W.",
+        "Sabatini, Bernardo",
+        "Datta, Sandeep Robert "
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}

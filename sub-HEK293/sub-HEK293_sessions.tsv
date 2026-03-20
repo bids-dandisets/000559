@@ -1,4 +1,4 @@
-session_id
-ses-exp3
-ses-exp4
-ses-exp5
+session_id	original_session_id
+ses-exp3	ses-exp3
+ses-exp4	ses-exp4
+ses-exp5	ses-exp5

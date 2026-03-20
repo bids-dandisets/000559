@@ -1,31 +1,31 @@
-session_id
-ses-reinforcement+photometry+001c87b5+bc0f+4ab0+b809+70226bab6c95
-ses-reinforcement+photometry+01371b50+2fcb+4096+9cfa+66cda2d35e41
-ses-reinforcement+photometry+065659bc+ff24+472f+9e8a+421320b05520
-ses-reinforcement+photometry+0944ed3b+3eab+4b27+bf79+b38138f00e47
-ses-reinforcement+photometry+16f32d4d+cede+4c7f+9482+6eae65d2671c
-ses-reinforcement+photometry+1dd8f2f1+0be7+4a6a+b144+3726742f5021
-ses-reinforcement+photometry+2575d909+be44+40cc+bc09+9c089c3e4fd5
-ses-reinforcement+photometry+308c6558+392a+480c+937f+efbe34447971
-ses-reinforcement+photometry+387978e7+bf18+49c6+9d45+0b028044d86a
-ses-reinforcement+photometry+38f65287+8387+40e1+820b+3587becbe6bd
-ses-reinforcement+photometry+3f7c49d7+430d+4f30+b0e4+8bb2f7695cbe
-ses-reinforcement+photometry+49793c1d+5c20+4a18+a41d+e3075042381d
-ses-reinforcement+photometry+5175ea19+9c3c+4e8f+aa43+3a3a1a39fd10
-ses-reinforcement+photometry+56eb6863+8266+4d77+850a+909cfa817dd0
-ses-reinforcement+photometry+584010e5+0006+4b27+b93b+578ef3fba4df
-ses-reinforcement+photometry+694370d5+9f70+4f77+97b4+881c0997b242
-ses-reinforcement+photometry+805af8df+f6a7+4e79+bf8f+258377f65992
-ses-reinforcement+photometry+8788eee8+9bbe+4aa4+8f34+590465945579
-ses-reinforcement+photometry+8a03330c+6fb2+422b+8031+80370678b68a
-ses-reinforcement+photometry+9494d3c2+81bb+4a36+bc83+9108fe7c1389
-ses-reinforcement+photometry+9b6b9791+6fec+4a4f+85ab+5caa1ea865c5
-ses-reinforcement+photometry+a9f01737+a8a0+4afb+a2c3+0e9ebf57d413
-ses-reinforcement+photometry+b828f4b5+cdc1+4930+9c77+2e269be43857
-ses-reinforcement+photometry+b83e44e3+bbc3+4a0d+b148+a3f15c36227d
-ses-reinforcement+photometry+d885891c+017c+40e7+ae5f+9bb040fbcce2
-ses-reinforcement+photometry+dda90dd6+a75e+49b6+b75c+22d38b3bb717
-ses-reinforcement+photometry+e4aa89b8+b1d1+405d+aa2f+298e07473a54
-ses-reinforcement+photometry+eece36f3+08b9+4b6e+9b3f+c8c29eae28f0
-ses-reinforcement+photometry+f23058e6+5ae3+42db+924a+f6f512ba61c4
-ses-reinforcement+photometry+fc382f7c+c5fa+42a5+89b9+82ecadfe44f8
+session_id	original_session_id
+ses-reinforcement+photometry+001c87b5+bc0f+4ab0+b809+70226bab6c95	ses-reinforcement-photometry-001c87b5-bc0f-4ab0-b809-70226bab6c95
+ses-reinforcement+photometry+01371b50+2fcb+4096+9cfa+66cda2d35e41	ses-reinforcement-photometry-01371b50-2fcb-4096-9cfa-66cda2d35e41
+ses-reinforcement+photometry+065659bc+ff24+472f+9e8a+421320b05520	ses-reinforcement-photometry-065659bc-ff24-472f-9e8a-421320b05520
+ses-reinforcement+photometry+0944ed3b+3eab+4b27+bf79+b38138f00e47	ses-reinforcement-photometry-0944ed3b-3eab-4b27-bf79-b38138f00e47
+ses-reinforcement+photometry+16f32d4d+cede+4c7f+9482+6eae65d2671c	ses-reinforcement-photometry-16f32d4d-cede-4c7f-9482-6eae65d2671c
+ses-reinforcement+photometry+1dd8f2f1+0be7+4a6a+b144+3726742f5021	ses-reinforcement-photometry-1dd8f2f1-0be7-4a6a-b144-3726742f5021
+ses-reinforcement+photometry+2575d909+be44+40cc+bc09+9c089c3e4fd5	ses-reinforcement-photometry-2575d909-be44-40cc-bc09-9c089c3e4fd5
+ses-reinforcement+photometry+308c6558+392a+480c+937f+efbe34447971	ses-reinforcement-photometry-308c6558-392a-480c-937f-efbe34447971
+ses-reinforcement+photometry+387978e7+bf18+49c6+9d45+0b028044d86a	ses-reinforcement-photometry-387978e7-bf18-49c6-9d45-0b028044d86a
+ses-reinforcement+photometry+38f65287+8387+40e1+820b+3587becbe6bd	ses-reinforcement-photometry-38f65287-8387-40e1-820b-3587becbe6bd
+ses-reinforcement+photometry+3f7c49d7+430d+4f30+b0e4+8bb2f7695cbe	ses-reinforcement-photometry-3f7c49d7-430d-4f30-b0e4-8bb2f7695cbe
+ses-reinforcement+photometry+49793c1d+5c20+4a18+a41d+e3075042381d	ses-reinforcement-photometry-49793c1d-5c20-4a18-a41d-e3075042381d
+ses-reinforcement+photometry+5175ea19+9c3c+4e8f+aa43+3a3a1a39fd10	ses-reinforcement-photometry-5175ea19-9c3c-4e8f-aa43-3a3a1a39fd10
+ses-reinforcement+photometry+56eb6863+8266+4d77+850a+909cfa817dd0	ses-reinforcement-photometry-56eb6863-8266-4d77-850a-909cfa817dd0
+ses-reinforcement+photometry+584010e5+0006+4b27+b93b+578ef3fba4df	ses-reinforcement-photometry-584010e5-0006-4b27-b93b-578ef3fba4df
+ses-reinforcement+photometry+694370d5+9f70+4f77+97b4+881c0997b242	ses-reinforcement-photometry-694370d5-9f70-4f77-97b4-881c0997b242
+ses-reinforcement+photometry+805af8df+f6a7+4e79+bf8f+258377f65992	ses-reinforcement-photometry-805af8df-f6a7-4e79-bf8f-258377f65992
+ses-reinforcement+photometry+8788eee8+9bbe+4aa4+8f34+590465945579	ses-reinforcement-photometry-8788eee8-9bbe-4aa4-8f34-590465945579
+ses-reinforcement+photometry+8a03330c+6fb2+422b+8031+80370678b68a	ses-reinforcement-photometry-8a03330c-6fb2-422b-8031-80370678b68a
+ses-reinforcement+photometry+9494d3c2+81bb+4a36+bc83+9108fe7c1389	ses-reinforcement-photometry-9494d3c2-81bb-4a36-bc83-9108fe7c1389
+ses-reinforcement+photometry+9b6b9791+6fec+4a4f+85ab+5caa1ea865c5	ses-reinforcement-photometry-9b6b9791-6fec-4a4f-85ab-5caa1ea865c5
+ses-reinforcement+photometry+a9f01737+a8a0+4afb+a2c3+0e9ebf57d413	ses-reinforcement-photometry-a9f01737-a8a0-4afb-a2c3-0e9ebf57d413
+ses-reinforcement+photometry+b828f4b5+cdc1+4930+9c77+2e269be43857	ses-reinforcement-photometry-b828f4b5-cdc1-4930-9c77-2e269be43857
+ses-reinforcement+photometry+b83e44e3+bbc3+4a0d+b148+a3f15c36227d	ses-reinforcement-photometry-b83e44e3-bbc3-4a0d-b148-a3f15c36227d
+ses-reinforcement+photometry+d885891c+017c+40e7+ae5f+9bb040fbcce2	ses-reinforcement-photometry-d885891c-017c-40e7-ae5f-9bb040fbcce2
+ses-reinforcement+photometry+dda90dd6+a75e+49b6+b75c+22d38b3bb717	ses-reinforcement-photometry-dda90dd6-a75e-49b6-b75c-22d38b3bb717
+ses-reinforcement+photometry+e4aa89b8+b1d1+405d+aa2f+298e07473a54	ses-reinforcement-photometry-e4aa89b8-b1d1-405d-aa2f-298e07473a54
+ses-reinforcement+photometry+eece36f3+08b9+4b6e+9b3f+c8c29eae28f0	ses-reinforcement-photometry-eece36f3-08b9-4b6e-9b3f-c8c29eae28f0
+ses-reinforcement+photometry+f23058e6+5ae3+42db+924a+f6f512ba61c4	ses-reinforcement-photometry-f23058e6-5ae3-42db-924a-f6f512ba61c4
+ses-reinforcement+photometry+fc382f7c+c5fa+42a5+89b9+82ecadfe44f8	ses-reinforcement-photometry-fc382f7c-c5fa-42a5-89b9-82ecadfe44f8

@@ -1,16 +1,16 @@
-session_id
-ses-photometry+02604400+1743+4521+99c3+52c64a3654dd
-ses-photometry+3790ebe7+dc07+447f+81d9+79d8273d7e85
-ses-photometry+3c6edf27+3f5b+4d94+9f2f+57daa51d7e38
-ses-photometry+3ebe54f3+431d+4912+ab36+c0f4b74a2928
-ses-photometry+4d348b01+3c90+4167+8e80+65c631aafebe
-ses-photometry+4d6a574f+e3ff+4e85+b5f2+614e255d534c
-ses-photometry+4fe8e8b1+19a5+4db9+af4b+ed151f6a387e
-ses-photometry+5ba241fd+28f5+46d1+864c+b3fd182bd8d5
-ses-photometry+5bc98b2a+0ad0+4d08+8ee3+70176e047649
-ses-photometry+654703d0+3d68+43fc+a460+013aaecbb6d0
-ses-photometry+82830477+0385+459b+a272+e7b1ceaacec6
-ses-photometry+af2a289e+6779+49df+9681+878c1bf93104
-ses-photometry+ef4cad2c+4e24+4346+abd8+dd8904425207
-ses-photometry+fde2fde9+6837+4771+9a12+36fb9b3a1340
-ses-photometry+fff2bda4+78b1+4abb+b011+14b816364e4e
+session_id	original_session_id
+ses-photometry+02604400+1743+4521+99c3+52c64a3654dd	ses-photometry-02604400-1743-4521-99c3-52c64a3654dd
+ses-photometry+3790ebe7+dc07+447f+81d9+79d8273d7e85	ses-photometry-3790ebe7-dc07-447f-81d9-79d8273d7e85
+ses-photometry+3c6edf27+3f5b+4d94+9f2f+57daa51d7e38	ses-photometry-3c6edf27-3f5b-4d94-9f2f-57daa51d7e38
+ses-photometry+3ebe54f3+431d+4912+ab36+c0f4b74a2928	ses-photometry-3ebe54f3-431d-4912-ab36-c0f4b74a2928
+ses-photometry+4d348b01+3c90+4167+8e80+65c631aafebe	ses-photometry-4d348b01-3c90-4167-8e80-65c631aafebe
+ses-photometry+4d6a574f+e3ff+4e85+b5f2+614e255d534c	ses-photometry-4d6a574f-e3ff-4e85-b5f2-614e255d534c
+ses-photometry+4fe8e8b1+19a5+4db9+af4b+ed151f6a387e	ses-photometry-4fe8e8b1-19a5-4db9-af4b-ed151f6a387e
+ses-photometry+5ba241fd+28f5+46d1+864c+b3fd182bd8d5	ses-photometry-5ba241fd-28f5-46d1-864c-b3fd182bd8d5
+ses-photometry+5bc98b2a+0ad0+4d08+8ee3+70176e047649	ses-photometry-5bc98b2a-0ad0-4d08-8ee3-70176e047649
+ses-photometry+654703d0+3d68+43fc+a460+013aaecbb6d0	ses-photometry-654703d0-3d68-43fc-a460-013aaecbb6d0
+ses-photometry+82830477+0385+459b+a272+e7b1ceaacec6	ses-photometry-82830477-0385-459b-a272-e7b1ceaacec6
+ses-photometry+af2a289e+6779+49df+9681+878c1bf93104	ses-photometry-af2a289e-6779-49df-9681-878c1bf93104
+ses-photometry+ef4cad2c+4e24+4346+abd8+dd8904425207	ses-photometry-ef4cad2c-4e24-4346-abd8-dd8904425207
+ses-photometry+fde2fde9+6837+4771+9a12+36fb9b3a1340	ses-photometry-fde2fde9-6837-4771-9a12-36fb9b3a1340
+ses-photometry+fff2bda4+78b1+4abb+b011+14b816364e4e	ses-photometry-fff2bda4-78b1-4abb-b011-14b816364e4e

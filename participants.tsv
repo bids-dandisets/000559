@@ -1,70 +1,70 @@
-participant_id	species	sex
-sub-10	Mus musculus	M
-sub-1527	Mus musculus	M
-sub-1528	Mus musculus	M
-sub-1529	Mus musculus	F
-sub-1544	Mus musculus	M
-sub-1546	Mus musculus	M
-sub-1561	Mus musculus	F
-sub-15822	Mus musculus	M
-sub-15823	Mus musculus	M
-sub-15847	Mus musculus	F
-sub-197	Mus musculus	M
-sub-200	Mus musculus	M
-sub-208	Mus musculus	F
-sub-209	Mus musculus	F
-sub-211	Mus musculus	M
-sub-239	Mus musculus	F
-sub-240	Mus musculus	F
-sub-241	Mus musculus	F
-sub-242	Mus musculus	F
-sub-3155	Mus musculus	F
-sub-3440	Mus musculus	F
-sub-3441	Mus musculus	F
-sub-3442	Mus musculus	F
-sub-410	Mus musculus	M
-sub-5891	Mus musculus	U
-sub-5892	Mus musculus	U
-sub-5893	Mus musculus	U
-sub-5894	Mus musculus	U
-sub-HEK293	Homo sapiens	F
-sub-dlight+chrimson+1	Mus musculus	F
-sub-dlight+chrimson+2	Mus musculus	F
-sub-dlight+chrimson+3	Mus musculus	M
-sub-dlight+chrimson+4	Mus musculus	M
-sub-dlight+chrimson+5	Mus musculus	F
-sub-dlight+chrimson+6	Mus musculus	M
-sub-dlight+chrimson+8	Mus musculus	M
-sub-dlight+chrimson+9	Mus musculus	M
-sub-dls+ai32jr+1	Mus musculus	M
-sub-dls+ai32jr+2	Mus musculus	M
-sub-dls+ai32jr+3	Mus musculus	M
-sub-dls+ai32jr+4	Mus musculus	F
-sub-dls+ai32jr+5	Mus musculus	F
-sub-dls+dlight+1	Mus musculus	M
-sub-dls+dlight+10	Mus musculus	M
-sub-dls+dlight+11	Mus musculus	M
-sub-dls+dlight+12	Mus musculus	M
-sub-dls+dlight+13	Mus musculus	M
-sub-dls+dlight+2	Mus musculus	M
-sub-dls+dlight+3	Mus musculus	M
-sub-dls+dlight+4	Mus musculus	M
-sub-dls+dlight+5	Mus musculus	M
-sub-dls+dlight+6	Mus musculus	M
-sub-dls+dlight+7	Mus musculus	M
-sub-dls+dlight+8	Mus musculus	M
-sub-dls+dlight+9	Mus musculus	M
-sub-dms+dlight+1	Mus musculus	M
-sub-dms+dlight+10	Mus musculus	M
-sub-dms+dlight+11	Mus musculus	M
-sub-dms+dlight+13	Mus musculus	M
-sub-dms+dlight+14	Mus musculus	M
-sub-dms+dlight+4	Mus musculus	M
-sub-dms+dlight+6	Mus musculus	F
-sub-dms+dlight+7	Mus musculus	M
-sub-dms+dlight+8	Mus musculus	M
-sub-dms+dlight+9	Mus musculus	M
-sub-snc+dls+ctrl+6	Mus musculus	F
-sub-snc+dls+ctrl+7	Mus musculus	M
-sub-vta+nacc+ctrl+6	Mus musculus	M
-sub-vta+nacc+ctrl+7	Mus musculus	U
+participant_id	original_participant_id	species	sex
+sub-10	sub-10	Mus musculus	M
+sub-1527	sub-1527	Mus musculus	M
+sub-1528	sub-1528	Mus musculus	M
+sub-1529	sub-1529	Mus musculus	F
+sub-1544	sub-1544	Mus musculus	M
+sub-1546	sub-1546	Mus musculus	M
+sub-1561	sub-1561	Mus musculus	F
+sub-15822	sub-15822	Mus musculus	M
+sub-15823	sub-15823	Mus musculus	M
+sub-15847	sub-15847	Mus musculus	F
+sub-197	sub-197	Mus musculus	M
+sub-200	sub-200	Mus musculus	M
+sub-208	sub-208	Mus musculus	F
+sub-209	sub-209	Mus musculus	F
+sub-211	sub-211	Mus musculus	M
+sub-239	sub-239	Mus musculus	F
+sub-240	sub-240	Mus musculus	F
+sub-241	sub-241	Mus musculus	F
+sub-242	sub-242	Mus musculus	F
+sub-3155	sub-3155	Mus musculus	F
+sub-3440	sub-3440	Mus musculus	F
+sub-3441	sub-3441	Mus musculus	F
+sub-3442	sub-3442	Mus musculus	F
+sub-410	sub-410	Mus musculus	M
+sub-5891	sub-5891	Mus musculus	U
+sub-5892	sub-5892	Mus musculus	U
+sub-5893	sub-5893	Mus musculus	U
+sub-5894	sub-5894	Mus musculus	U
+sub-HEK293	sub-HEK293	Homo sapiens	F
+sub-dlight+chrimson+1	sub-dlight-chrimson-1	Mus musculus	F
+sub-dlight+chrimson+2	sub-dlight-chrimson-2	Mus musculus	F
+sub-dlight+chrimson+3	sub-dlight-chrimson-3	Mus musculus	M
+sub-dlight+chrimson+4	sub-dlight-chrimson-4	Mus musculus	M
+sub-dlight+chrimson+5	sub-dlight-chrimson-5	Mus musculus	F
+sub-dlight+chrimson+6	sub-dlight-chrimson-6	Mus musculus	M
+sub-dlight+chrimson+8	sub-dlight-chrimson-8	Mus musculus	M
+sub-dlight+chrimson+9	sub-dlight-chrimson-9	Mus musculus	M
+sub-dls+ai32jr+1	sub-dls-ai32jr-1	Mus musculus	M
+sub-dls+ai32jr+2	sub-dls-ai32jr-2	Mus musculus	M
+sub-dls+ai32jr+3	sub-dls-ai32jr-3	Mus musculus	M
+sub-dls+ai32jr+4	sub-dls-ai32jr-4	Mus musculus	F
+sub-dls+ai32jr+5	sub-dls-ai32jr-5	Mus musculus	F
+sub-dls+dlight+1	sub-dls-dlight-1	Mus musculus	M
+sub-dls+dlight+10	sub-dls-dlight-10	Mus musculus	M
+sub-dls+dlight+11	sub-dls-dlight-11	Mus musculus	M
+sub-dls+dlight+12	sub-dls-dlight-12	Mus musculus	M
+sub-dls+dlight+13	sub-dls-dlight-13	Mus musculus	M
+sub-dls+dlight+2	sub-dls-dlight-2	Mus musculus	M
+sub-dls+dlight+3	sub-dls-dlight-3	Mus musculus	M
+sub-dls+dlight+4	sub-dls-dlight-4	Mus musculus	M
+sub-dls+dlight+5	sub-dls-dlight-5	Mus musculus	M
+sub-dls+dlight+6	sub-dls-dlight-6	Mus musculus	M
+sub-dls+dlight+7	sub-dls-dlight-7	Mus musculus	M
+sub-dls+dlight+8	sub-dls-dlight-8	Mus musculus	M
+sub-dls+dlight+9	sub-dls-dlight-9	Mus musculus	M
+sub-dms+dlight+1	sub-dms-dlight-1	Mus musculus	M
+sub-dms+dlight+10	sub-dms-dlight-10	Mus musculus	M
+sub-dms+dlight+11	sub-dms-dlight-11	Mus musculus	M
+sub-dms+dlight+13	sub-dms-dlight-13	Mus musculus	M
+sub-dms+dlight+14	sub-dms-dlight-14	Mus musculus	M
+sub-dms+dlight+4	sub-dms-dlight-4	Mus musculus	M
+sub-dms+dlight+6	sub-dms-dlight-6	Mus musculus	F
+sub-dms+dlight+7	sub-dms-dlight-7	Mus musculus	M
+sub-dms+dlight+8	sub-dms-dlight-8	Mus musculus	M
+sub-dms+dlight+9	sub-dms-dlight-9	Mus musculus	M
+sub-snc+dls+ctrl+6	sub-snc-dls-ctrl-6	Mus musculus	F
+sub-snc+dls+ctrl+7	sub-snc-dls-ctrl-7	Mus musculus	M
+sub-vta+nacc+ctrl+6	sub-vta-nacc-ctrl-6	Mus musculus	M
+sub-vta+nacc+ctrl+7	sub-vta-nacc-ctrl-7	Mus musculus	U
